@@ -73,7 +73,7 @@ ul {
 header {
   width: 100vw;
   height: 100vh;
-  background-image: url("/img/mountain-background-hero.jpg");
+  background-image: url("../img/mountain-background-hero.jpg");
   background-position: bottom;
   background-size: cover;
   display: flex;
@@ -172,7 +172,7 @@ section {
 .explore {
   width: 100%;
   height: 100vh;
-  background-image: url("/img/explore-bg.jpg");
+  background-image: url("../img/explore-bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
